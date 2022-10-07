@@ -2,6 +2,6 @@
 {
     public abstract class Cargo
     {
-        public IRegraDeCalculo Regra { get; protected set; }
+        public abstract IRegraDeCalculo Regra { get; }
     }
 }

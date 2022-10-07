@@ -9,8 +9,5 @@
 
             return funcionario.Salario * 0.75;
         }
-
-        //Outros
-        //Salarios > 2500 ? 25% desconto : 15%
     }
 }

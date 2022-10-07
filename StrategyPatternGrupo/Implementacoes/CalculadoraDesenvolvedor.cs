@@ -17,7 +17,6 @@ namespace StrategyPatternGrupo.Implementacoes
             return funcionario.Salario * 0.9;
         }
 
-        //Desenvolvedores
-        //Salarios > 3000 ? 20% desconto : 10%
+
     }
 }

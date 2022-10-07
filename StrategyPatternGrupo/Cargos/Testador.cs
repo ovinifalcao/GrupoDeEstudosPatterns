@@ -4,9 +4,7 @@ namespace StrategyPatternGrupo.Cargos
 {
     public class Testador : Cargo
     {
-        public Testador()
-        {
-            Regra = new CalculadoraGeral();
-        }
+        private IRegraDeCalculo regraDeCalculo = new CalculadoraGeral();
+        public override IRegraDeCalculo Regra => regraDeCalculo;
     }
 }

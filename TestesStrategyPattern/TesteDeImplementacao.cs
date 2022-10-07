@@ -1,6 +1,5 @@
 using StrategyPatternGrupo;
 using StrategyPatternGrupo.Cargos;
-using System;
 using Xunit;
 
 namespace TestesStrategyPattern
@@ -12,13 +11,13 @@ namespace TestesStrategyPattern
         {
             var funcionario = new Funcionario
             (
-                "Renato Gaúcho",
+                "Renato GaÃºcho",
                 3000,
                 new Desenvolvedor()
                 
             );
             var salario = funcionario.CalcularSalario();
-            Assert.Equal(salario, 2700);
+            Assert.Equal(2700, salario);
         }
 
         [Fact]
@@ -26,13 +25,13 @@ namespace TestesStrategyPattern
         {
             var funcionario = new Funcionario
             (
-                "Renato Gaúcho",
+                "Renato GaÃºcho",
                 4000,
                 new Desenvolvedor()
             );
 
             var salario = funcionario.CalcularSalario();
-            Assert.Equal(salario, 3200);
+            Assert.Equal(3200, salario);
         }
 
         [Fact]
@@ -46,7 +45,7 @@ namespace TestesStrategyPattern
             );
 
             var salario = funcionario.CalcularSalario();
-            Assert.Equal(salario, 2125);
+            Assert.Equal(2125, salario);
         }
 
 
@@ -61,16 +60,7 @@ namespace TestesStrategyPattern
             );
 
             var salario = funcionario.CalcularSalario();
-            Assert.Equal(salario, 2250);
+            Assert.Equal(2250, salario);
         }
-
-
-        //// todo: criar theory e mudar os nomes?
-
-        ////Desenvolvedores
-        ////Salarios > 3000 ? 20% desconto : 10%
-
-        ////Outros
-        ////Salarios > 2500 ? 25% desconto : 15%
     }
 }

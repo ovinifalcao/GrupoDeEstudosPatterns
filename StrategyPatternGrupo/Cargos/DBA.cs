@@ -4,9 +4,9 @@ namespace StrategyPatternGrupo.Cargos
 {
     public class DBA : Cargo
     {
-        public DBA()
-        {
-            Regra = new CalculadoraGeral();
-        }
+
+        private IRegraDeCalculo regraDeCalculo = new CalculadoraGeral();
+
+        public override IRegraDeCalculo Regra => regraDeCalculo;
     }
 }
