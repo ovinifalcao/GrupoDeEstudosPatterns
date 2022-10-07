@@ -1,0 +1,16 @@
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.exe
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.deps.json
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.runtimeconfig.json
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.runtimeconfig.dev.json
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.dll
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\ref\StrategyPatternGrupo.dll
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\bin\Debug\net5.0\StrategyPatternGrupo.pdb
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.csproj.AssemblyReference.cache
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.AssemblyInfoInputs.cache
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.AssemblyInfo.cs
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.dll
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\ref\StrategyPatternGrupo.dll
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.pdb
+C:\Users\vinicius.falcao\source\repos\StrategyPatternGrupo\StrategyPatternGrupo\obj\Debug\net5.0\StrategyPatternGrupo.genruntimeconfig.cache

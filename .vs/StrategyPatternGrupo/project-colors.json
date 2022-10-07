@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e93b8b60-9e05-4514-abe9-855c78011969": {
+      "ProjectGuid": "e93b8b60-9e05-4514-abe9-855c78011969",
+      "DisplayName": "StrategyPatternGrupo",
+      "ColorIndex": 0
+    },
+    "8506f8cb-7e03-42ac-8f12-f88aaa4b804a": {
+      "ProjectGuid": "8506f8cb-7e03-42ac-8f12-f88aaa4b804a",
+      "DisplayName": "TestesStrategyPattern",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
